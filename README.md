@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello, I'm Steven👋🏽
 
+  I am a student at Bloomtech Institute, making my way towards a fully fledged Full Stack Developer. I hope to get my foot into the professional world of programming, helping to create apps and other such programs. 
+  
+  Currently working on my Hunter's Manual app, a React based encyclopedia for Monster Hunter World.
+  
+  Learning Python on the side to expand my knowledge.
 <!--
 **Stevenr2314/Stevenr2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
