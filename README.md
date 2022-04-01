@@ -5,6 +5,8 @@
   Currently working on my Hunter's Manual app, a React based encyclopedia for Monster Hunter World.
   
   Learning Python on the side to expand my knowledge.
+  
+  [LinkedIn](https://www.linkedin.com/in/stevenrosa21/)
 <!--
 **Stevenr2314/Stevenr2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
